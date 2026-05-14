@@ -2,6 +2,9 @@
 
 A productivity-focused full-stack web application designed to help users manage tasks, notes, and focus sessions efficiently.
 
+## Live Demo
+[Open Project](https://mind-space-focus-tracker.vercel.app/)
+
 ## Features
 - Task management
 - Notes organization
